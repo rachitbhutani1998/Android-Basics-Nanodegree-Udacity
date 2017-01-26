@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#263238"
+    tools:context="com.example.rachit.squareone.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/welcome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:background="#607D8B"
+                android:fontFamily="sans-serif-condensed"
+                android:text="WELCOME TO SQUARE ONE!"
+                android:textAlignment="center"
+                android:textColor="#D50000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/sq2" />
+</RelativeLayout>
+            <TextView
+                android:id="@+id/hangout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/image"
+                android:layout_marginTop="20dp"
+                android:background="#607D8B"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:text="@string/hangout"
+                android:textColor="#D50000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/hangout"
+                android:padding="10dp"
+                android:text="Address:   Chitkara University, Rajpura"
+                android:textColor="#FFFF"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/add"
+                android:autoLink="phone"
+                android:padding="10dp"
+                android:text="Phone No: +919056308813"
+                android:textColor="#FFFF"
+                android:textColorLink="#90CAF9"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
