@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_a6dd8d8a790e0b66ad2304830b6356116e019a9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c7eac9df7759f309ad9f5220cfbd3b55bec5e2a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_15a8169714bc570786b104e857b05537fc411e8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d973d1fb77b2a80dff91e1da46bafac239a98be3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_29bcdde413e90221df14867054ea4600dcc2aab4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Rachit\AndroidStudioProjects\Football\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_9babaee5ccf90fa3eb78ad54768fbd69daa78677.jar" />
+    </item>
+
+</items>
