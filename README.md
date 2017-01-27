@@ -4,13 +4,13 @@ Thes are the following projects made during the course:
 
 1. Single Screen App 
 
-2. Court Counter App
+2. Score Keeper App
 
 3. Quiz App
 
-4. MusicPlayer Structure App
+4. Musical Structure App
 
-5. Report Card Java Class
+5. Report Card
 
 6. Tour Guide App
 
