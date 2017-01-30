@@ -2,9 +2,9 @@
 This Repository contains the projects made during the Android Basics Nanodegree by Udacity.
 Thes are the following projects made during the course:
 
-1. Single Screen App 
+1. Single Screen App(SquareOne2)
 
-2. Score Keeper App
+2. Score Keeper App(Football)
 
 3. Quiz App
 
