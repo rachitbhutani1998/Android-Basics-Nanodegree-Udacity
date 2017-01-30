@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="note">Note: Some questions may have more than one answers.</string>
+    <string name="q1">Q 1. How many sense organs do normal humans have?</string>
+    <string name="q2">Q 2. How many eyes do normal humans have?</string>
+    <string name="q3">Q 3. Name the organ used to taste.</string>
+    <string name="q4">Q 4. Which body parts are the limbs of human body?</string>
+    <string name="q5">Q 5. Find the odd one out.</string>
+    <string name="q5.1">Fingers</string>
+    <string name="q5.2">Palm</string>
+    <string name="q5.3">Thumb</string>
+    <string name="q5.4">Tongue</string>
+</resources>
