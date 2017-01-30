@@ -4,7 +4,7 @@ Thes are the following projects made during the course:
 
 1. Single Screen App (SquareOne2)
 
-2. Score Keeper App (Football)
+2. [Score Keeper App](#Football) 
 
 3. Quiz App (Quiz2.0)
 
