@@ -8,7 +8,7 @@ Thes are the following projects made during the course:
 
 3. [Quiz App] (https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/tree/master/Quiz2.0)
 
-4. Musical Structure App
+4. [Musical Structure App](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/tree/master/MusicApp)
 
 5. Report Card
 
