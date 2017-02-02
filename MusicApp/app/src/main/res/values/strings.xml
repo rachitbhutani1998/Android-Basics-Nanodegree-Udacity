@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="now_playing">This activity shows that which song is currently being played in the app and its progress is shown by the MediaPlayer class in the java file.</string>
+    <string name="track">This activity would list all the songs present in the library.</string>
+    <string name="artists">This activity will show the songs categorized on the basis of contributing artists.</string>
+    <string name="album">This activity will show the songs categorized by the album/movie the belong to.</string>
+    <string name="playlist">This activity will show the songs which the user has added to a particular list.</string>\
+</resources>
