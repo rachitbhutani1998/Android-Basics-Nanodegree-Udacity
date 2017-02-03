@@ -10,7 +10,7 @@ Thes are the following projects made during the course:
 
 4. [Musical Structure App](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/tree/master/MusicApp)
 
-5. Report Card
+5. [Report Card](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/blob/master/ReportCard.java)
 
 6. Tour Guide App
 
