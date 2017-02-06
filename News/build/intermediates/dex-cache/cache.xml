@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_13e85547d900dd5aa4a52a459c62b87178bcf343\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a9c18900d8c5b2717d0e47a62288cd7ff327bad8">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_484ddf9ac976883dd136494114a7abdecfdad0bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e9b30e948da551344d4df5f8e0b57e92bbe19a3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2a1b351052139da3a8ff6e3482f87e6736cf81c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_a0bee6a6e20709c28509fb38e16e62ad15f223db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7143e1176cae1ceb45188ce385482eb857fccd63\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d4dd704e7e801650376cb50b31401128c7ca4aac">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e98f41a08491cd9cd59d519bb0b963f6195b1f4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rachit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Rachit\Downloads\BookListing-develop\News\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_29bcdde413e90221df14867054ea4600dcc2aab4\classes.dex" />
+    </item>
+
+</items>
