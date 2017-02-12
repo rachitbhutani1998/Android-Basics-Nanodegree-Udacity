@@ -20,6 +20,6 @@ Thes are the following projects made during the course:
 
 9. [Habit Tracker App](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/tree/master/HabitTracker)
 
-10. Inventory App
+10. [Inventory App](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/tree/master/Inventory)
 
 The above 10 projects are reviewed by Udacity reviewers.
