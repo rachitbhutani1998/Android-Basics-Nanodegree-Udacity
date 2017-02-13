@@ -12,7 +12,7 @@ Thes are the following projects made during the course:
 
 5. [Report Card](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/blob/master/ReportCard.java)
 
-6. Tour Guide App
+6. [Tour Guide App](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/tree/master/TourGuide)
 
 7. [Book Listing App](https://github.com/rachitbhutani1998/Android-Basics-Nanodegree-Udacity/tree/master/BookListing)
 
