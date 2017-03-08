@@ -1,20 +1,14 @@
 package com.example.android.quiz20;
 
-import android.annotation.TargetApi;
-import android.os.Build;
+import android.content.Intent;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.Editable;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
-import android.widget.TextView;
-import android.widget.Toast;
 
-import com.example.android.quiz20.R;
-
-import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
     int score;
@@ -57,9 +51,38 @@ public class MainActivity extends AppCompatActivity {
         if (radio5.isChecked())
             score += 1;
         if (score == 5)
-            Toast.makeText(this, "Great.. You scored the maximum marks i.e. 5", Toast.LENGTH_SHORT).show();
+        {
+            Snackbar snackbar = Snackbar
+                    .make(view, "You scored 5 out of 5!", Snackbar.LENGTH_LONG);
+            snackbar.show();
+            snackbar.setAction("Share", new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent shareIntent=new Intent(Intent.ACTION_SEND);
+                    shareIntent.setType("text/plain");
+                    shareIntent.putExtra(Intent.EXTRA_TEXT,"I scored full marks in the Quiz App made by Rachit.");
+                    Intent chooser=new Intent(Intent.createChooser(shareIntent,"Share Via"));
+                    startActivity(chooser);
+
+                }
+            });
+        }
         else
-            Toast.makeText(this, "You have scored " + score + " points.", Toast.LENGTH_SHORT).show();
+        {
+            Snackbar snackbar = Snackbar
+                    .make(view, "You have scored " + score + " points.", Snackbar.LENGTH_LONG);
+            snackbar.show();
+            snackbar.setAction("Share", new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent shareIntent=new Intent(Intent.ACTION_SEND);
+                    shareIntent.setType("text/plain");
+                    shareIntent.putExtra(Intent.EXTRA_TEXT,"I scored "+score+" marks in the Quiz App made by Rachit.");
+                    Intent chooser=new Intent(Intent.createChooser(shareIntent,"Share Via"));
+                    startActivity(chooser);
+                }
+            });
+        }
 
     }
 }

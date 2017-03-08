@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="4086000875425"
+    token="-4242361936377275134" >
+
+    <task
+        name="javac"
+        duration="280" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="79" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="D:\Android-Basics-Nanodegree-Udacity\Quiz2.0\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="4086000875425" >
+        <artifact
+            location="D:\Android-Basics-Nanodegree-Udacity\Quiz2.0\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
