@@ -8,3 +8,5 @@ The application allows you to access multiple activities like the homepage of mu
 The application uses OnClickListener to access different activities from different buttons in every activity.
 
 Every child activity displays a TextView which shows the role of the activity in a MusicPlayer.
+
+You can download and install the quiz app by clicking [here](https://drive.google.com/open?id=0By1gotVqYBcyaHlXTktPT19vOXM).
