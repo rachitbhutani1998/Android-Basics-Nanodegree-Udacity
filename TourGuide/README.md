@@ -9,3 +9,5 @@ The 5 list views are populated with restaurants, clubs, hotels, cinemas and some
 The list item also has a ClickListener applied to it which shows the exact location of the list item.
 
 The application throws an intent to the maps to search for that specific location on the maps on which the ser clicked on.
+
+You can download and install the quiz app by clicking [here](https://drive.google.com/open?id=0By1gotVqYBcyWlZOMXZySUI4Z1k).
